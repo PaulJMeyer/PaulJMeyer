@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Paul 👋
 
-<!--
-**PaulJMeyer/PaulJMeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Biochemistry & Molecular Biology
 
-Here are some ideas to get you started:
+Passionate about applying data analysis and machine learning to scientific and real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Data Analysis & Machine Learning
+- Bioinformatics
+- Python Automation
+- Scientific Software
+- Life Science Data
+
+## Technologies
+
+Python • NumPy • Pandas • Matplotlib • Seaborn • scikit-learn • SQL • Git
+
+## Featured Projects
+
+🧬 Bioinformatics Python Tools
+Collection of utilities for FASTA parsing, sequence analysis and basic bioinformatics workflows.
+
+🧪 Lab Software
+A laboratory management simulation written in Python using object-oriented programming.
+
+📚 Library Tracker
+Python script that automatically checks the availability of books in a public library.
+
+## Current Focus
+
+- Expanding my Machine Learning portfolio
+- Building Data Science projects with Python and scikit-learn
+- Combining Life Sciences and Data Science
