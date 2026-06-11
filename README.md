@@ -18,14 +18,24 @@ Python • NumPy • Pandas • Matplotlib • Seaborn • scikit-learn • SQL 
 
 ## Featured Projects
 
+📊 Data Science Portfolio
+Collection of Data Science projects covering exploratory data analysis, feature engineering and machine learning workflows.
+Current project:
+- Diabetes Prediction (Binary Classification)
+- Data cleaning and exploratory data analysis (EDA)
+- Python, Pandas and Scikit-learn
+
+📚 Library Tracker
+Python script that automatically checks the availability of books in a public library.
+- Automated login and availability checks
+- Web scraping and data extraction
+- Modular project structure and documentation
+
 🧬 Bioinformatics Python Tools
 Collection of utilities for FASTA parsing, sequence analysis and basic bioinformatics workflows.
 
 🧪 Lab Software
 A laboratory management simulation written in Python using object-oriented programming.
-
-📚 Library Tracker
-Python script that automatically checks the availability of books in a public library.
 
 ## Current Focus
 
